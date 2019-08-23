@@ -15,3 +15,9 @@ patch:
   'npm:tunnel-agent:20170305':
     - karma > log4js > loggly > request > tunnel-agent:
         patched: '2019-08-23T02:28:02.720Z'
+  'npm:debug:20170905':
+    - karma > socket.io > socket.io-adapter > socket.io-parser > debug:
+        patched: '2019-08-23T02:34:43.443Z'
+  'npm:ms:20170412':
+    - karma > socket.io > socket.io-adapter > socket.io-parser > debug > ms:
+        patched: '2019-08-23T02:34:43.443Z'
