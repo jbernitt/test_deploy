@@ -3,9 +3,15 @@ version: v1.13.5
 ignore: {}
 # patches apply the minimum changes required to fix a vulnerability
 patch:
-  'npm:debug:20170905':
-    - karma > socket.io > socket.io-adapter > socket.io-parser > debug:
-        patched: '2019-08-23T02:27:24.045Z'
-  'npm:ms:20170412':
-    - karma > socket.io > socket.io-adapter > socket.io-parser > debug > ms:
-        patched: '2019-08-23T02:27:24.045Z'
+  'npm:hoek:20180212':
+    - karma > log4js > loggly > request > hawk > hoek:
+        patched: '2019-08-23T02:28:02.720Z'
+    - karma > log4js > loggly > request > hawk > boom > hoek:
+        patched: '2019-08-23T02:28:02.720Z'
+    - karma > log4js > loggly > request > hawk > sntp > hoek:
+        patched: '2019-08-23T02:28:02.720Z'
+    - karma > log4js > loggly > request > hawk > cryptiles > boom > hoek:
+        patched: '2019-08-23T02:28:02.720Z'
+  'npm:tunnel-agent:20170305':
+    - karma > log4js > loggly > request > tunnel-agent:
+        patched: '2019-08-23T02:28:02.720Z'
