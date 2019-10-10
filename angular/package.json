@@ -38,7 +38,7 @@
     "tslint": "^5.8.0",
     "typescript": "^2.4.2",
     "zone.js": "^0.8.4",
-    "snyk": "^1.230.5"
+    "snyk": "^1.234.0"
   },
   "snyk": true
 }
