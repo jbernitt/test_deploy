@@ -21,3 +21,8 @@ patch:
   'npm:ms:20170412':
     - karma > socket.io > socket.io-adapter > socket.io-parser > debug > ms:
         patched: '2019-08-23T02:34:43.443Z'
+  SNYK-JS-HTTPSPROXYAGENT-469131:
+    - snyk > proxy-agent > https-proxy-agent:
+        patched: '2019-10-05T07:58:50.451Z'
+    - snyk > proxy-agent > pac-proxy-agent > https-proxy-agent:
+        patched: '2019-10-05T07:58:50.451Z'
