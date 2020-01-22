@@ -16,7 +16,7 @@
   "dependencies": {
     "@angular/animations": "^5.1.0",
     "@angular-devkit/schematics": "0.0.40",
-    "@angular/compiler-cli": "^5.1.0",
+    "@angular/compiler-cli": "^7.2.6",
     "@types/jasmine": "2.5.38",
     "@types/node": "^6.0.42",
     "protractor": "~6.0.0",
