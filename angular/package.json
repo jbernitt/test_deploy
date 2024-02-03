@@ -19,7 +19,7 @@
     "@angular/compiler-cli": "^5.1.0",
     "@types/jasmine": "2.5.38",
     "@types/node": "^6.0.42",
-    "protractor": "~6.0.0",
+    "protractor": "~7.0.0",
     "ts-node": "1.2.1",
     "@angular/cli": "^6.0.0",
     "@angular/common": "^5.1.0",
